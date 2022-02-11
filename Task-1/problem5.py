@@ -1,7 +1,7 @@
 from hashlib import new
 
 
-sar = int(input("Enter the size of array and it's items:\n "))
+sar = int(input("Please enter the size of array and it's items:\n "))
 iar = input("")
 n=0
 newar = iar.split()
